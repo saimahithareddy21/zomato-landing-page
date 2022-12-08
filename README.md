@@ -1,1 +1,1 @@
-# created a README.md file
+# This is a zomato-landing-page-clone
